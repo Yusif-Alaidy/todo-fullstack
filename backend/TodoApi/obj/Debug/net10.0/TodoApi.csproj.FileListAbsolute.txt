@@ -140,7 +140,6 @@ D:\Projects\todo-fullstack\backend\TodoApi\obj\Debug\net10.0\staticwebassets.bui
 D:\Projects\todo-fullstack\backend\TodoApi\obj\Debug\net10.0\staticwebassets.development.json
 D:\Projects\todo-fullstack\backend\TodoApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 D:\Projects\todo-fullstack\backend\TodoApi\obj\Debug\net10.0\swae.build.ex.cache
-D:\Projects\todo-fullstack\backend\TodoApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 D:\Projects\todo-fullstack\backend\TodoApi\obj\Debug\net10.0\TodoApi.csproj.Up2Date
 D:\Projects\todo-fullstack\backend\TodoApi\obj\Debug\net10.0\TodoApi.dll
 D:\Projects\todo-fullstack\backend\TodoApi\obj\Debug\net10.0\refint\TodoApi.dll
