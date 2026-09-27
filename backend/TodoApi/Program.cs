@@ -1,4 +1,7 @@
 
+using Microsoft.EntityFrameworkCore;
+using TodoApi.Data;
+
 namespace TodoApi
 {
     public class Program
@@ -12,6 +15,11 @@ namespace TodoApi
             builder.Services.AddControllers();
             // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
             builder.Services.AddOpenApi();
+
+            #region DB Connection
+            builder.Services.AddDbContext<AppDbContext>(options =>
+                options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));
+            #endregion
 
             var app = builder.Build();
 
