@@ -46,8 +46,7 @@
               "RelativeToolTip": "TodoApi\\Controllers\\TodosController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-27T12:24:16.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-27T12:24:16.684Z"
             },
             {
               "$type": "Document",
@@ -93,7 +92,7 @@
               "RelativeDocumentMoniker": "TodoApi\\Program.cs",
               "ToolTip": "D:\\Projects\\todo-fullstack\\backend\\TodoApi\\Program.cs",
               "RelativeToolTip": "TodoApi\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-27T11:52:10.197Z",
               "EditorCaption": ""
