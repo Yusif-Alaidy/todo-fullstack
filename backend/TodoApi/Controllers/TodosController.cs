@@ -32,5 +32,23 @@ namespace TodoApi.Controllers
 
             return CreatedAtAction(nameof(GetTodos), new { id = new_todo.Id }, new_todo);
         }
+
+        [HttpPut("{id:int}")]
+        public async Task<IActionResult> UpdateTodo(int id, TodoItem updatedTodo)
+        {
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
+            var existingTodo = await _context.TodoItems.FindAsync(id);
+            if (existingTodo == null)
+                return NotFound();
+
+            existingTodo.Title = updatedTodo.Title;
+            existingTodo.IsCompleted = updatedTodo.IsCompleted;
+
+            await _context.SaveChangesAsync();
+
+            return NoContent();
+        }
     }
 }
