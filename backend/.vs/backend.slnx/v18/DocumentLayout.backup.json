@@ -3,28 +3,8 @@
   "WorkspaceRootPath": "D:\\Projects\\todo-fullstack\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9D74EAC-F660-8A73-E2EA-C8EF81470181}|TodoApi\\TodoApi.csproj|d:\\projects\\todo-fullstack\\backend\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9D74EAC-F660-8A73-E2EA-C8EF81470181}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A9D74EAC-F660-8A73-E2EA-C8EF81470181}|TodoApi\\TodoApi.csproj|d:\\projects\\todo-fullstack\\backend\\todoapi\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9D74EAC-F660-8A73-E2EA-C8EF81470181}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9D74EAC-F660-8A73-E2EA-C8EF81470181}|TodoApi\\TodoApi.csproj|d:\\projects\\todo-fullstack\\backend\\todoapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9D74EAC-F660-8A73-E2EA-C8EF81470181}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9D74EAC-F660-8A73-E2EA-C8EF81470181}|TodoApi\\TodoApi.csproj|d:\\projects\\todo-fullstack\\backend\\todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9D74EAC-F660-8A73-E2EA-C8EF81470181}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9D74EAC-F660-8A73-E2EA-C8EF81470181}|TodoApi\\TodoApi.csproj|d:\\projects\\todo-fullstack\\backend\\todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A9D74EAC-F660-8A73-E2EA-C8EF81470181}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9D74EAC-F660-8A73-E2EA-C8EF81470181}|TodoApi\\TodoApi.csproj|d:\\projects\\todo-fullstack\\backend\\todoapi\\migrations\\20260927121057_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9D74EAC-F660-8A73-E2EA-C8EF81470181}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\migrations\\20260927121057_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,80 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TodosController.cs",
               "DocumentMoniker": "D:\\Projects\\todo-fullstack\\backend\\TodoApi\\Controllers\\TodosController.cs",
               "RelativeDocumentMoniker": "TodoApi\\Controllers\\TodosController.cs",
               "ToolTip": "D:\\Projects\\todo-fullstack\\backend\\TodoApi\\Controllers\\TodosController.cs",
               "RelativeToolTip": "TodoApi\\Controllers\\TodosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-27T12:24:16.684Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20260927121057_init.cs",
-              "DocumentMoniker": "D:\\Projects\\todo-fullstack\\backend\\TodoApi\\Migrations\\20260927121057_init.cs",
-              "RelativeDocumentMoniker": "TodoApi\\Migrations\\20260927121057_init.cs",
-              "ToolTip": "D:\\Projects\\todo-fullstack\\backend\\TodoApi\\Migrations\\20260927121057_init.cs",
-              "RelativeToolTip": "TodoApi\\Migrations\\20260927121057_init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-27T12:10:57.912Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TodoItem.cs",
-              "DocumentMoniker": "D:\\Projects\\todo-fullstack\\backend\\TodoApi\\Models\\TodoItem.cs",
-              "RelativeDocumentMoniker": "TodoApi\\Models\\TodoItem.cs",
-              "ToolTip": "D:\\Projects\\todo-fullstack\\backend\\TodoApi\\Models\\TodoItem.cs",
-              "RelativeToolTip": "TodoApi\\Models\\TodoItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-27T11:59:41.483Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Projects\\todo-fullstack\\backend\\TodoApi\\appsettings.json",
-              "RelativeDocumentMoniker": "TodoApi\\appsettings.json",
-              "ToolTip": "D:\\Projects\\todo-fullstack\\backend\\TodoApi\\appsettings.json",
-              "RelativeToolTip": "TodoApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-27T11:54:14.609Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\todo-fullstack\\backend\\TodoApi\\Program.cs",
-              "RelativeDocumentMoniker": "TodoApi\\Program.cs",
-              "ToolTip": "D:\\Projects\\todo-fullstack\\backend\\TodoApi\\Program.cs",
-              "RelativeToolTip": "TodoApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-27T11:52:10.197Z",
+              "WhenOpened": "2026-09-29T10:54:42.669Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Projects\\todo-fullstack\\backend\\TodoApi\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "TodoApi\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\Projects\\todo-fullstack\\backend\\TodoApi\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "TodoApi\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-27T11:47:06.964Z"
             }
           ]
         }
