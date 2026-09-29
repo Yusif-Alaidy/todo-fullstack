@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using TodoApi.Data;
 using TodoApi.Models;
+using TodoApi.Models.DTOs;
 
 namespace TodoApi.Controllers
 {
@@ -34,7 +35,7 @@ namespace TodoApi.Controllers
         }
 
         [HttpPut("{id:int}")]
-        public async Task<IActionResult> UpdateTodo(int id, TodoItem updatedTodo)
+        public async Task<IActionResult> UpdateTodo(int id, CreateTodoItems updatedTodo)
         {
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
