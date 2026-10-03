@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{A9D74EAC-F660-8A73-E2EA-C8EF81470181}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9D74EAC-F660-8A73-E2EA-C8EF81470181}|TodoApi\\TodoApi.csproj|d:\\projects\\todo-fullstack\\backend\\todoapi\\models\\dtos\\createtodoitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9D74EAC-F660-8A73-E2EA-C8EF81470181}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\models\\dtos\\createtodoitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A9D74EAC-F660-8A73-E2EA-C8EF81470181}|TodoApi\\TodoApi.csproj|d:\\projects\\todo-fullstack\\backend\\todoapi\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9D74EAC-F660-8A73-E2EA-C8EF81470181}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9D74EAC-F660-8A73-E2EA-C8EF81470181}|TodoApi\\TodoApi.csproj|d:\\projects\\todo-fullstack\\backend\\todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9D74EAC-F660-8A73-E2EA-C8EF81470181}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D74EAC-F660-8A73-E2EA-C8EF81470181}|TodoApi\\TodoApi.csproj|d:\\projects\\todo-fullstack\\backend\\todoapi\\models\\dtos\\createtodoitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D74EAC-F660-8A73-E2EA-C8EF81470181}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\models\\dtos\\createtodoitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,14 +36,14 @@
               "RelativeDocumentMoniker": "TodoApi\\Program.cs",
               "ToolTip": "D:\\Projects\\todo-fullstack\\backend\\TodoApi\\Program.cs",
               "RelativeToolTip": "TodoApi\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAiwD4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-29T15:11:59.418Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "CreateTodoItems.cs",
               "DocumentMoniker": "D:\\Projects\\todo-fullstack\\backend\\TodoApi\\Models\\DTOs\\CreateTodoItems.cs",
               "RelativeDocumentMoniker": "TodoApi\\Models\\DTOs\\CreateTodoItems.cs",
@@ -51,12 +51,11 @@
               "RelativeToolTip": "TodoApi\\Models\\DTOs\\CreateTodoItems.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T14:12:36.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-29T14:12:36.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "TodoItem.cs",
               "DocumentMoniker": "D:\\Projects\\todo-fullstack\\backend\\TodoApi\\Models\\TodoItem.cs",
               "RelativeDocumentMoniker": "TodoApi\\Models\\TodoItem.cs",
@@ -68,15 +67,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "TodosController.cs",
               "DocumentMoniker": "D:\\Projects\\todo-fullstack\\backend\\TodoApi\\Controllers\\TodosController.cs",
               "RelativeDocumentMoniker": "TodoApi\\Controllers\\TodosController.cs",
               "ToolTip": "D:\\Projects\\todo-fullstack\\backend\\TodoApi\\Controllers\\TodosController.cs",
               "RelativeToolTip": "TodoApi\\Controllers\\TodosController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAA5wC8AAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAzwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T10:54:42.669Z"
+              "WhenOpened": "2026-09-29T10:54:42.669Z",
+              "EditorCaption": ""
             }
           ]
         }

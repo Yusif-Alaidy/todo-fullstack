@@ -1,0 +1,80 @@
+@font-face {
+    font-family: myfont;
+    src: url('/abhaya-libre/AbhayaLibre-Regular.ttf');
+}
+
+.title{
+    font-weight:bolder;
+    margin: 20px 0 ;
+}
+.font{
+    font-family: myfont;
+}
+.span-title{
+    
+    opacity: 70%;
+}
+.primary-bg{
+    background-color: #FAF7F2;
+}
+.card-bg{
+    background-color: #F0D1A8;
+}
+.focus-bg{
+    background-color: blueviolet;
+}
+.focus-bg2{
+    background-color: brown;
+}
+.fixed-width{
+     width: 200px;
+    flex-shrink: 0;   /* المفتاح: يمنعه ينكمش لو الكتابة زادت */
+    overflow: hidden;  /* اختياري: لو الكتابة أطول من العرض، تتقص بدل ما تكسر الـ layout */
+}
+.fixed-height{
+    flex-shrink: 0;   /* المفتاح: يمنعه ينكمش لو الكتابة زادت */
+}
+
+.description {
+    height: 4.8em;
+  flex-grow: 1;           /* ياخد المساحة المتاحة بس، ومايكبرش أكتر منها */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;  /* اظهر سطرين بس من الوصف */
+  -webkit-box-orient: vertical;
+}
+.add-task{
+    background-color: #cbd3ffb0;
+    border: 1px solid #00000019;
+    border-radius: 5px;
+    height: 50px;
+    width: 500px;
+    padding: 20px 0 24px 75px;
+    margin-right: 20px;
+}
+.add-task:focus{
+outline: none;
+}
+.add-btn{
+    color: white;
+    width: 90px;
+    border-radius: 0 8px 8px 0;
+    height: auto;
+}
+
+.search{
+    background-color: rgba(0, 255, 255, 0);
+    border: 0;
+}
+.search::placeholder{
+    color: #006d77bf;
+}
+.search:focus{
+    outline: none;
+}
+.border-search{
+    border: 1px solid #e0da7c;
+    border-radius: 5px;
+    padding: 5px 10px 5px 30px;
+}

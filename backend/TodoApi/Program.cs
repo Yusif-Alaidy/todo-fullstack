@@ -60,7 +60,7 @@ namespace TodoApi
             //}
 
             app.UseHttpsRedirection();
-
+            app.UseCors();          // ← ضيف السطر ده هنا
             app.UseAuthorization();
 
 
